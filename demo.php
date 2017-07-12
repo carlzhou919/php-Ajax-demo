@@ -5,3 +5,4 @@ require("config.php");
 $mysqli = new mysqli();
 echo '修复了一个Bug';
 echo '改变了内容';
+echo '修复了两个Bug';
