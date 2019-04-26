@@ -1,2 +1,2 @@
-# demo
-我的第一个Github项目
+# php+Ajax 实例
+
